@@ -1,0 +1,24 @@
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T11:40:09.905959
+Item: Coke Cola
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T12:19:12.414353300
+Item: Coke Cola
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:12:38.865860
+Item: Coke Cola
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:18:33.267287800
+Item: Coke Cola
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:19:15.256386300
+Item: Coke Cola
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:20:06.989906300
+Item: Coke Cola
+----------------------------

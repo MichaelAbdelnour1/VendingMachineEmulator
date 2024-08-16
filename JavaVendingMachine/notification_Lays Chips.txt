@@ -1,0 +1,24 @@
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T11:40:09.886835400
+Item: Lays Chips
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T12:19:12.399261600
+Item: Lays Chips
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:12:38.850137900
+Item: Lays Chips
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:18:33.250163
+Item: Lays Chips
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:19:15.235388100
+Item: Lays Chips
+----------------------------
+Notification - OUT OF STOCK
+Timestamp :2024-07-30T13:20:06.974968700
+Item: Lays Chips
+----------------------------

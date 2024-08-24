@@ -19,21 +19,21 @@ This repository is about a Vending Machine Emulator that I created in Java which
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating a product class, that will utlized by both the Beverage and Snack class through inheritance. 
-<br/> Additonally,exception handeling has been implemented to ensure input validation.: <br/>
+Creating a product class, that will utilized by both the Beverage and Snack classes through inheritance. 
+<br/> Additionally, exception handling has been implemented to ensure input validation.: <br/>
 <img src="https://i.imgur.com/KU0fbme.png" height="95%" width="95%" alt="Product Class"/>
 <br />
 <br />
-Creating a Beverage class, that inherits product and also utilizes exception handeling.: <br/>
+Creating a Beverage class, that inherits the product and also utilizes exception handling.: <br/>
 <img src="https://i.imgur.com/S6Uby00.png" height="95%" width="95%" alt="Beverage Class"/>
 <br />
 <br />
-Creating a Snack class, that inherits product that represents any product that is not a drink.: <br/>
+Creating a Snack class, that inherits from the product class that represents any product that is not a drink.: <br/>
 <img src="https://i.imgur.com/6cyWvD9.png" height="95%" width="95%" alt="Snack Class"/>
 <br />
 <br />
-Creating a Slot class, that utlizes generics to store either a snack or beverage and its quanitity. 
-<br/> It also uses exception handeling, to ensure that the quantity entered is a valid input:  <br/>
+Creating a Slot class, that utilizes generics to store either a snack or beverage and its quantity. 
+<br/> It also uses exception handling, to ensure that the quantity entered is a valid input.:  <br/>
 <img src="https://i.imgur.com/8IQxfx5.png" height="95%" width="95%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
